@@ -11,8 +11,8 @@
 | **A**    | **@** (основной) | **mydomain.ru** | **185.114.xx.xx**    | mydomain.ru -> 185.114.xx.xx |
 | **A**    | **www**          | mydomain.ru     | 185.114.xx.xx        | www.mydomain.ru -> 185.114.xx.xx |
 | **A**    | **node**         | mydomain.ru     | **192.0.0.0 от сервера**      | node.mydomain.ru -> 192.168.0.1 |
-| **CNAME**| **sub**          | mydomain.ru     | **gidhub.ru**        | sub.mydomain.ru является алиасом |
-| **CNAME**| **panel**        | mydomain.ru     | **gidhub.ru**        | panel.mydomain.ru является алиасом |
+| **CNAME**| **sub**          | mydomain.ru     |         | sub.mydomain.ru является алиасом |
+| **CNAME**| **panel**        | mydomain.ru     |         | panel.mydomain.ru является алиасом |
 
 Дальше идет установка скрипта.
 
